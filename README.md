@@ -11,3 +11,4 @@
 再根據抽到的星卡 去 亂數出角色
 
 第三部：模擬抽卡
+![image](https://user-images.githubusercontent.com/33471758/218160846-fe1e24d8-6f9c-4bc7-b03e-ced315f89a49.png)
