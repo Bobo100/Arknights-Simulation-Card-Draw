@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "arknights-simulation-card-draw",
+  "homepage": "https://bobo100.github.io/Arknights-Simulation-Card-Draw/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
