@@ -1,5 +1,7 @@
 # Arknights-Simulation-Card-Draw
 
+https://bobo100.github.io/Arknights-Simulation-Card-Draw/
+
 第一步：蒐集圖片資料
 
 第二步：設定抽卡狀態與權重
