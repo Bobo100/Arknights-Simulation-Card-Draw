@@ -1,0 +1,2552 @@
+[
+    {
+        "cn": "重岳",
+        "en": "Chongyue",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "268"
+    },
+    {
+        "cn": "林",
+        "en": "Lin",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "267"
+    },
+    {
+        "cn": "火哨",
+        "en": "Firewhistle",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "266"
+    },
+    {
+        "cn": "截云",
+        "en": "Jieyun",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "265"
+    },
+    {
+        "cn": "焰影苇草",
+        "en": "Reed The Flame Shadow",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "264"
+    },
+    {
+        "cn": "和弦",
+        "en": "Harmonie",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "263"
+    },
+    {
+        "cn": "谜图",
+        "en": "Puzzle",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "262"
+    },
+    {
+        "cn": "缄默德克萨斯",
+        "en": "Texas the Omertosa",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "261"
+    },
+    {
+        "cn": "斥罪",
+        "en": "Penance",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "260"
+    },
+    {
+        "cn": "伺夜",
+        "en": "Vigil",
+        "rarity": "5",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "259"
+    },
+    {
+        "cn": "子月",
+        "en": "Lunacub",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "258"
+    },
+    {
+        "cn": "雪绒",
+        "en": "Qanipalaat",
+        "rarity": "4",
+        "approach": [
+            "凭证交易所"
+        ],
+        "sort_id": "257"
+    },
+    {
+        "cn": "石英",
+        "en": "Quartz",
+        "rarity": "3",
+        "approach": [
+            "凭证交易所"
+        ],
+        "sort_id": "256"
+    },
+    {
+        "cn": "白铁",
+        "en": "Stainless",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "255"
+    },
+    {
+        "cn": "明椒",
+        "en": "Paprika",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "254"
+    },
+    {
+        "cn": "达格达",
+        "en": "Dagda",
+        "rarity": "4",
+        "approach": [
+            "主线剧情"
+        ],
+        "sort_id": "253"
+    },
+    {
+        "cn": "铅踝",
+        "en": "Totter",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "252"
+    },
+    {
+        "cn": "海沫",
+        "en": "Highmore",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "251"
+    },
+    {
+        "cn": "罗小黑",
+        "en": "Luo Xiaohei",
+        "rarity": "3",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "250"
+    },
+    {
+        "cn": "玛恩纳",
+        "en": "Młynar",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "249"
+    },
+    {
+        "cn": "但书",
+        "en": "Proviso",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "248"
+    },
+    {
+        "cn": "百炼嘉维尔",
+        "en": "Gavial the Invincible",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "247"
+    },
+    {
+        "cn": "鸿雪",
+        "en": "Позёмка",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "246"
+    },
+    {
+        "cn": "晓歌",
+        "en": "Cantabile",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "245"
+    },
+    {
+        "cn": "至简",
+        "en": "Minimalist",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "244"
+    },
+    {
+        "cn": "多萝西",
+        "en": "Dorothy",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "243"
+    },
+    {
+        "cn": "承曦格雷伊",
+        "en": "Greyy the Lightningbearer",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "242"
+    },
+    {
+        "cn": "星源",
+        "en": "Astgenne",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "241"
+    },
+    {
+        "cn": "黑键",
+        "en": "Ebenholz",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "240"
+    },
+    {
+        "cn": "濯尘芙蓉",
+        "en": "Hibiscus the Purifier",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "239"
+    },
+    {
+        "cn": "车尔尼",
+        "en": "Czerny",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "238"
+    },
+    {
+        "cn": "埃拉托",
+        "en": "Erato",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "237"
+    },
+    {
+        "cn": "归溟幽灵鲨",
+        "en": "Specter the Unchained",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "236"
+    },
+    {
+        "cn": "艾丽妮",
+        "en": "Irene",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "235"
+    },
+    {
+        "cn": "流明",
+        "en": "Lumen",
+        "rarity": "5",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "234"
+    },
+    {
+        "cn": "掠风",
+        "en": "Windflit",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "233"
+    },
+    {
+        "cn": "号角",
+        "en": "Horn",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "232"
+    },
+    {
+        "cn": "洛洛",
+        "en": "Rockrock",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "231"
+    },
+    {
+        "cn": "海蒂",
+        "en": "Heidi",
+        "rarity": "4",
+        "approach": [
+            "主线剧情"
+        ],
+        "sort_id": "230"
+    },
+    {
+        "cn": "褐果",
+        "en": "Chestnut",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "229"
+    },
+    {
+        "cn": "菲亚梅塔",
+        "en": "Fiammetta",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "228"
+    },
+    {
+        "cn": "风丸",
+        "en": "Kazemaru",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "227"
+    },
+    {
+        "cn": "见行者",
+        "en": "Enforcer",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "226"
+    },
+    {
+        "cn": "澄闪",
+        "en": "Goldenglow",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "225"
+    },
+    {
+        "cn": "夏栎",
+        "en": "Quercus",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "224"
+    },
+    {
+        "cn": "令",
+        "en": "Ling",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "223"
+    },
+    {
+        "cn": "老鲤",
+        "en": "Lee",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "222"
+    },
+    {
+        "cn": "夜半",
+        "en": "Blacknight",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "221"
+    },
+    {
+        "cn": "寒芒克洛丝",
+        "en": "Kroos the Keen Glint",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "220"
+    },
+    {
+        "cn": "九色鹿",
+        "en": "Nine-Colored Deer",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "219"
+    },
+    {
+        "cn": "暮落",
+        "en": "Shalem",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "218"
+    },
+    {
+        "cn": "灵知",
+        "en": "Gnosis",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "217"
+    },
+    {
+        "cn": "极光",
+        "en": "Aurora",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "216"
+    },
+    {
+        "cn": "耶拉",
+        "en": "Kjera",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "215"
+    },
+    {
+        "cn": "耀骑士临光",
+        "en": "Nearl the Radiant Knight",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "214"
+    },
+    {
+        "cn": "焰尾",
+        "en": "Flametail",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "213"
+    },
+    {
+        "cn": "蚀清",
+        "en": "Corroserum",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "212"
+    },
+    {
+        "cn": "野鬃",
+        "en": "Wild Mane",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "211"
+    },
+    {
+        "cn": "蜜莓",
+        "en": "Honeyberry",
+        "rarity": "4",
+        "approach": [
+            "凭证交易所"
+        ],
+        "sort_id": "210"
+    },
+    {
+        "cn": "布丁",
+        "en": "Pudding",
+        "rarity": "3",
+        "approach": [
+            "凭证交易所"
+        ],
+        "sort_id": "209"
+    },
+    {
+        "cn": "正义骑士号",
+        "en": "",
+        "rarity": "0",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "208"
+    },
+    {
+        "cn": "远牙",
+        "en": "Fartooth",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "207"
+    },
+    {
+        "cn": "灰毫",
+        "en": "Ashlock",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "206"
+    },
+    {
+        "cn": "琴柳",
+        "en": "Saileach",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "205"
+    },
+    {
+        "cn": "桑葚",
+        "en": "Mulberry",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "204"
+    },
+    {
+        "cn": "罗比菈塔",
+        "en": "Roberta",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "203"
+    },
+    {
+        "cn": "假日威龙陈",
+        "en": "Ch'en the Holungday",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "202"
+    },
+    {
+        "cn": "水月",
+        "en": "Mizuki",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "201"
+    },
+    {
+        "cn": "羽毛笔",
+        "en": "La Pluma",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "200"
+    },
+    {
+        "cn": "龙舌兰",
+        "en": "Tequila",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "199"
+    },
+    {
+        "cn": "帕拉斯",
+        "en": "Pallas",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "198"
+    },
+    {
+        "cn": "卡涅利安",
+        "en": "Carnelian",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "197"
+    },
+    {
+        "cn": "绮良",
+        "en": "Kirara",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "196"
+    },
+    {
+        "cn": "贝娜",
+        "en": "Bena",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "195"
+    },
+    {
+        "cn": "深靛",
+        "en": "Indigo",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "194"
+    },
+    {
+        "cn": "浊心斯卡蒂",
+        "en": "Skadi the Corrupting Heart",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "193"
+    },
+    {
+        "cn": "凯尔希",
+        "en": "Kal'tsit",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "192"
+    },
+    {
+        "cn": "歌蕾蒂娅",
+        "en": "Gladiia",
+        "rarity": "5",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "191"
+    },
+    {
+        "cn": "赤冬",
+        "en": "Akafuyu",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "190"
+    },
+    {
+        "cn": "异客",
+        "en": "Passenger",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "189"
+    },
+    {
+        "cn": "熔泉",
+        "en": "Toddifons",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "188"
+    },
+    {
+        "cn": "暴雨",
+        "en": "Heavyrain",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "187"
+    },
+    {
+        "cn": "灰烬",
+        "en": "Ash",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "186"
+    },
+    {
+        "cn": "霜华",
+        "en": "Frost",
+        "rarity": "4",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "185"
+    },
+    {
+        "cn": "闪击",
+        "en": "Blitz",
+        "rarity": "4",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "184"
+    },
+    {
+        "cn": "战车",
+        "en": "Tachanka",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "183"
+    },
+    {
+        "cn": "夕",
+        "en": "Dusk",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "182"
+    },
+    {
+        "cn": "嵯峨",
+        "en": "Saga",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "181"
+    },
+    {
+        "cn": "乌有",
+        "en": "Mr.Nothing",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "180"
+    },
+    {
+        "cn": "炎狱炎熔",
+        "en": "Lava the Purgatory",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "179"
+    },
+    {
+        "cn": "图耶",
+        "en": "Tuye",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "178"
+    },
+    {
+        "cn": "空弦",
+        "en": "Archetto",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "177"
+    },
+    {
+        "cn": "爱丽丝",
+        "en": "Iris",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "176"
+    },
+    {
+        "cn": "豆苗",
+        "en": "Beanstalk",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "175"
+    },
+    {
+        "cn": "山",
+        "en": "Mountain",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "174"
+    },
+    {
+        "cn": "卡夫卡",
+        "en": "Kafka",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "173"
+    },
+    {
+        "cn": "罗宾",
+        "en": "Robin",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "172"
+    },
+    {
+        "cn": "松果",
+        "en": "Pinecone",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "171"
+    },
+    {
+        "cn": "阿米娅(近卫)",
+        "en": "Amiya",
+        "rarity": "4",
+        "approach": [
+            "主线剧情"
+        ],
+        "sort_id": "170"
+    },
+    {
+        "cn": "迷迭香",
+        "en": "Rosmontis",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "169"
+    },
+    {
+        "cn": "泥岩",
+        "en": "Mudrock",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "168"
+    },
+    {
+        "cn": "絮雨",
+        "en": "Whisperain",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "167"
+    },
+    {
+        "cn": "杰克",
+        "en": "Jackie",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "166"
+    },
+    {
+        "cn": "瑕光",
+        "en": "Blemishine",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "165"
+    },
+    {
+        "cn": "奥斯塔",
+        "en": "Aosta",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "164"
+    },
+    {
+        "cn": "鞭刃",
+        "en": "Whislash",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "163"
+    },
+    {
+        "cn": "泡泡",
+        "en": "Bubble",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "162"
+    },
+    {
+        "cn": "史尔特尔",
+        "en": "Surtr",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "161"
+    },
+    {
+        "cn": "四月",
+        "en": "April",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "160"
+    },
+    {
+        "cn": "薄绿",
+        "en": "Mint",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "159"
+    },
+    {
+        "cn": "芳汀",
+        "en": "Arene",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "158"
+    },
+    {
+        "cn": "森蚺",
+        "en": "Eunectes",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "157"
+    },
+    {
+        "cn": "燧石",
+        "en": "Flint",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "156"
+    },
+    {
+        "cn": "特米米",
+        "en": "Tomimi",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "155"
+    },
+    {
+        "cn": "酸糖",
+        "en": "Aciddrop",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "154"
+    },
+    {
+        "cn": "棘刺",
+        "en": "Thorns",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "153"
+    },
+    {
+        "cn": "安哲拉",
+        "en": "Andreana",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "152"
+    },
+    {
+        "cn": "孑",
+        "en": "Jaye",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "151"
+    },
+    {
+        "cn": "贾维",
+        "en": "Chiave",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "150"
+    },
+    {
+        "cn": "蜜蜡",
+        "en": "Beeswax",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "149"
+    },
+    {
+        "cn": "稀音",
+        "en": "Scene",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "148"
+    },
+    {
+        "cn": "铃兰",
+        "en": "Suzuran",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "147"
+    },
+    {
+        "cn": "断崖",
+        "en": "Ayerscarpe",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "146"
+    },
+    {
+        "cn": "亚叶",
+        "en": "Folinic",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "145"
+    },
+    {
+        "cn": "卡达",
+        "en": "Click",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "144"
+    },
+    {
+        "cn": "早露",
+        "en": "Роса",
+        "rarity": "5",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "143"
+    },
+    {
+        "cn": "莱恩哈特",
+        "en": "Leonhardt",
+        "rarity": "4",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "142"
+    },
+    {
+        "cn": "苦艾",
+        "en": "Absinthe",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "141"
+    },
+    {
+        "cn": "波登可",
+        "en": "Podenco",
+        "rarity": "3",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "140"
+    },
+    {
+        "cn": "月禾",
+        "en": "Tsukinogi",
+        "rarity": "4",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "139"
+    },
+    {
+        "cn": "石棉",
+        "en": "Asbestos",
+        "rarity": "4",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "138"
+    },
+    {
+        "cn": "W",
+        "en": "W",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "137"
+    },
+    {
+        "cn": "温蒂",
+        "en": "Weedy",
+        "rarity": "5",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "136"
+    },
+    {
+        "cn": "极境",
+        "en": "Elysium",
+        "rarity": "4",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "135"
+    },
+    {
+        "cn": "THRM-EX",
+        "en": "Thermal-EX",
+        "rarity": "0",
+        "approach": [
+            "公开招募",
+            "主线剧情"
+        ],
+        "sort_id": "134"
+    },
+    {
+        "cn": "傀影",
+        "en": "Phantom",
+        "rarity": "5",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "133"
+    },
+    {
+        "cn": "巫恋",
+        "en": "Shamare",
+        "rarity": "4",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "132"
+    },
+    {
+        "cn": "铸铁",
+        "en": "Sideroca",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "131"
+    },
+    {
+        "cn": "刻刀",
+        "en": "Cutter",
+        "rarity": "3",
+        "approach": [
+            "标准寻访",
+            "公开招募"
+        ],
+        "sort_id": "130"
+    },
+    {
+        "cn": "断罪者",
+        "en": "Conviction",
+        "rarity": "3",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "129"
+    },
+    {
+        "cn": "风笛",
+        "en": "Bagpipe",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "128"
+    },
+    {
+        "cn": "慑砂",
+        "en": "Sesa",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "127"
+    },
+    {
+        "cn": "柏喙",
+        "en": "Bibeak",
+        "rarity": "4",
+        "approach": [
+            "活动获得"
+        ],
+        "sort_id": "126"
+    },
+    {
+        "cn": "宴",
+        "en": "Utage",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "125"
+    },
+    {
+        "cn": "清流",
+        "en": "Purestream",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "限时礼包"
+        ],
+        "sort_id": "124"
+    },
+    {
+        "cn": "刻俄柏",
+        "en": "Ceobe",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "123"
+    },
+    {
+        "cn": "惊蛰",
+        "en": "Leizi",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "122"
+    },
+    {
+        "cn": "年",
+        "en": "Nian",
+        "rarity": "5",
+        "approach": [
+            "限定寻访"
+        ],
+        "sort_id": "121"
+    },
+    {
+        "cn": "阿",
+        "en": "Aak",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "120"
+    },
+    {
+        "cn": "吽",
+        "en": "Hung",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "119"
+    },
+    {
+        "cn": "雪雉",
+        "en": "Snowsant",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "118"
+    },
+    {
+        "cn": "煌",
+        "en": "Blaze",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "117"
+    },
+    {
+        "cn": "灰喉",
+        "en": "GreyThroat",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "116"
+    },
+    {
+        "cn": "安比尔",
+        "en": "Ambriel",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "115"
+    },
+    {
+        "cn": "布洛卡",
+        "en": "Broca",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "114"
+    },
+    {
+        "cn": "苇草",
+        "en": "Reed",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "113"
+    },
+    {
+        "cn": "莫斯提马",
+        "en": "Mostima",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "112"
+    },
+    {
+        "cn": "槐琥",
+        "en": "Waai Fu",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "111"
+    },
+    {
+        "cn": "拜松",
+        "en": "Bison",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "110"
+    },
+    {
+        "cn": "梅",
+        "en": "May",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "109"
+    },
+    {
+        "cn": "微风",
+        "en": "Breeze",
+        "rarity": "4",
+        "approach": [
+            "凭证交易所"
+        ],
+        "sort_id": "108"
+    },
+    {
+        "cn": "伊桑",
+        "en": "Ethan",
+        "rarity": "3",
+        "approach": [
+            "凭证交易所"
+        ],
+        "sort_id": "107"
+    },
+    {
+        "cn": "麦哲伦",
+        "en": "Magallan",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "106"
+    },
+    {
+        "cn": "送葬人",
+        "en": "Executor",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "105"
+    },
+    {
+        "cn": "炎客",
+        "en": "Flamebringer",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "104"
+    },
+    {
+        "cn": "红云",
+        "en": "Vermeil",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "103"
+    },
+    {
+        "cn": "坚雷",
+        "en": "Dur-nar",
+        "rarity": "3",
+        "approach": [
+            "信用交易所"
+        ],
+        "sort_id": "102"
+    },
+    {
+        "cn": "赫拉格",
+        "en": "Hellagur",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "101"
+    },
+    {
+        "cn": "星极",
+        "en": "Astesia",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "100"
+    },
+    {
+        "cn": "桃金娘",
+        "en": "Myrtle",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "99"
+    },
+    {
+        "cn": "黑",
+        "en": "Schwarz",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "98"
+    },
+    {
+        "cn": "格劳克斯",
+        "en": "Glaucus",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "97"
+    },
+    {
+        "cn": "锡兰",
+        "en": "Ceylon",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "96"
+    },
+    {
+        "cn": "苏苏洛",
+        "en": "Sussurro",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "95"
+    },
+    {
+        "cn": "陈",
+        "en": "Ch'en",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "94"
+    },
+    {
+        "cn": "诗怀雅",
+        "en": "Swire",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "93"
+    },
+    {
+        "cn": "格雷伊",
+        "en": "Greyy",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "92"
+    },
+    {
+        "cn": "斑点",
+        "en": "Spot",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "91"
+    },
+    {
+        "cn": "泡普卡",
+        "en": "Popukar",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "90"
+    },
+    {
+        "cn": "斯卡蒂",
+        "en": "Skadi",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "89"
+    },
+    {
+        "cn": "格拉尼",
+        "en": "Grani",
+        "rarity": "4",
+        "approach": [
+            "活动获得",
+            "记录修复奖励"
+        ],
+        "sort_id": "88"
+    },
+    {
+        "cn": "夜魔",
+        "en": "Nightmare",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "87"
+    },
+    {
+        "cn": "猎蜂",
+        "en": "Beehunter",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "86"
+    },
+    {
+        "cn": "月见夜",
+        "en": "Midnight",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "85"
+    },
+    {
+        "cn": "空爆",
+        "en": "Catapult",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "84"
+    },
+    {
+        "cn": "暴行",
+        "en": "Savage",
+        "rarity": "4",
+        "approach": [
+            "周年奖励",
+            "预约奖励"
+        ],
+        "sort_id": "83"
+    },
+    {
+        "cn": "银灰",
+        "en": "SilverAsh",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "82"
+    },
+    {
+        "cn": "塞雷娅",
+        "en": "Saria",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "81"
+    },
+    {
+        "cn": "星熊",
+        "en": "Hoshiguma",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "80"
+    },
+    {
+        "cn": "夜莺",
+        "en": "Nightingale",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "79"
+    },
+    {
+        "cn": "闪灵",
+        "en": "Shining",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "78"
+    },
+    {
+        "cn": "安洁莉娜",
+        "en": "Angelina",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "77"
+    },
+    {
+        "cn": "艾雅法拉",
+        "en": "Eyjafjalla",
+        "rarity": "5",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "76"
+    },
+    {
+        "cn": "伊芙利特",
+        "en": "Ifrit",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "75"
+    },
+    {
+        "cn": "推进之王",
+        "en": "Siege",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "74"
+    },
+    {
+        "cn": "能天使",
+        "en": "Exusiai",
+        "rarity": "5",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "73"
+    },
+    {
+        "cn": "食铁兽",
+        "en": "FEater",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "72"
+    },
+    {
+        "cn": "狮蝎",
+        "en": "Manticore",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "71"
+    },
+    {
+        "cn": "空",
+        "en": "Sora",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "70"
+    },
+    {
+        "cn": "真理",
+        "en": "Истина",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "69"
+    },
+    {
+        "cn": "初雪",
+        "en": "Pramanix",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "68"
+    },
+    {
+        "cn": "崖心",
+        "en": "Cliffheart",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "“开始熟悉罗德岛”连续登录任务奖励",
+            "标准寻访"
+        ],
+        "sort_id": "67"
+    },
+    {
+        "cn": "守林人",
+        "en": "Firewatch",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "66"
+    },
+    {
+        "cn": "普罗旺斯",
+        "en": "Provence",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "65"
+    },
+    {
+        "cn": "火神",
+        "en": "Vulcan",
+        "rarity": "4",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "64"
+    },
+    {
+        "cn": "可颂",
+        "en": "Croissant",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "63"
+    },
+    {
+        "cn": "雷蛇",
+        "en": "Liskarm",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "62"
+    },
+    {
+        "cn": "红",
+        "en": "Projekt Red",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "61"
+    },
+    {
+        "cn": "临光",
+        "en": "Nearl",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "60"
+    },
+    {
+        "cn": "华法琳",
+        "en": "Warfarin",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "59"
+    },
+    {
+        "cn": "赫默",
+        "en": "Silence",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "58"
+    },
+    {
+        "cn": "梅尔",
+        "en": "Mayer",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "57"
+    },
+    {
+        "cn": "天火",
+        "en": "Skyfire",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "56"
+    },
+    {
+        "cn": "阿米娅",
+        "en": "Amiya",
+        "rarity": "4",
+        "approach": [
+            "主线剧情"
+        ],
+        "sort_id": "55"
+    },
+    {
+        "cn": "陨星",
+        "en": "Meteorite",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "54"
+    },
+    {
+        "cn": "白金",
+        "en": "Platinum",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "53"
+    },
+    {
+        "cn": "蓝毒",
+        "en": "Blue Poison",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "52"
+    },
+    {
+        "cn": "幽灵鲨",
+        "en": "Specter",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "51"
+    },
+    {
+        "cn": "拉普兰德",
+        "en": "Lappland",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "50"
+    },
+    {
+        "cn": "因陀罗",
+        "en": "Indra",
+        "rarity": "4",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "49"
+    },
+    {
+        "cn": "芙兰卡",
+        "en": "Franka",
+        "rarity": "4",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "48"
+    },
+    {
+        "cn": "德克萨斯",
+        "en": "Texas",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访",
+            "见习任务第八阶段奖励"
+        ],
+        "sort_id": "47"
+    },
+    {
+        "cn": "凛冬",
+        "en": "Зима",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "46"
+    },
+    {
+        "cn": "白面鸮",
+        "en": "Ptilopsis",
+        "rarity": "4",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "45"
+    },
+    {
+        "cn": "阿消",
+        "en": "Shaw",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "44"
+    },
+    {
+        "cn": "地灵",
+        "en": "Earthspirit",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "43"
+    },
+    {
+        "cn": "深海色",
+        "en": "Deepcolor",
+        "rarity": "3",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "42"
+    },
+    {
+        "cn": "古米",
+        "en": "Гум",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "41"
+    },
+    {
+        "cn": "蛇屠箱",
+        "en": "Cuora",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "40"
+    },
+    {
+        "cn": "角峰",
+        "en": "Matterhorn",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "39"
+    },
+    {
+        "cn": "调香师",
+        "en": "Perfumer",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "38"
+    },
+    {
+        "cn": "嘉维尔",
+        "en": "Gavial",
+        "rarity": "3",
+        "approach": [
+            "信用交易所"
+        ],
+        "sort_id": "37"
+    },
+    {
+        "cn": "末药",
+        "en": "Myrrh",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "36"
+    },
+    {
+        "cn": "暗索",
+        "en": "Rope",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "35"
+    },
+    {
+        "cn": "砾",
+        "en": "Gravel",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "34"
+    },
+    {
+        "cn": "慕斯",
+        "en": "Mousse",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "33"
+    },
+    {
+        "cn": "艾丝黛尔",
+        "en": "Estelle",
+        "rarity": "3",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "32"
+    },
+    {
+        "cn": "霜叶",
+        "en": "Frostleaf",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "31"
+    },
+    {
+        "cn": "缠丸",
+        "en": "Matoimaru",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "30"
+    },
+    {
+        "cn": "杜宾",
+        "en": "Dobermann",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "29"
+    },
+    {
+        "cn": "红豆",
+        "en": "Vigna",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "28"
+    },
+    {
+        "cn": "清道夫",
+        "en": "Scavenger",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "27"
+    },
+    {
+        "cn": "讯使",
+        "en": "Courier",
+        "rarity": "3",
+        "approach": [
+            "信用交易所"
+        ],
+        "sort_id": "26"
+    },
+    {
+        "cn": "白雪",
+        "en": "ShiraYuki",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "25"
+    },
+    {
+        "cn": "流星",
+        "en": "Meteor",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "24"
+    },
+    {
+        "cn": "杰西卡",
+        "en": "Jessica",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "23"
+    },
+    {
+        "cn": "远山",
+        "en": "Gitano",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "22"
+    },
+    {
+        "cn": "夜烟",
+        "en": "Haze",
+        "rarity": "3",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "21"
+    },
+    {
+        "cn": "梓兰",
+        "en": "Orchid",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "20"
+    },
+    {
+        "cn": "史都华德",
+        "en": "Steward",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "19"
+    },
+    {
+        "cn": "安赛尔",
+        "en": "Ansel",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "18"
+    },
+    {
+        "cn": "芙蓉",
+        "en": "Hibiscus",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "17"
+    },
+    {
+        "cn": "炎熔",
+        "en": "Lava",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "16"
+    },
+    {
+        "cn": "安德切尔",
+        "en": "Adnachiel",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情"
+        ],
+        "sort_id": "15"
+    },
+    {
+        "cn": "克洛丝",
+        "en": "Kroos",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "14"
+    },
+    {
+        "cn": "米格鲁",
+        "en": "Beagle",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "13"
+    },
+    {
+        "cn": "卡缇",
+        "en": "Cardigan",
+        "rarity": "2",
+        "approach": [
+            "标准寻访"
+        ],
+        "sort_id": "12"
+    },
+    {
+        "cn": "玫兰莎",
+        "en": "Melantha",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "11"
+    },
+    {
+        "cn": "翎羽",
+        "en": "Plume",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "10"
+    },
+    {
+        "cn": "香草",
+        "en": "Vanilla",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "标准寻访"
+        ],
+        "sort_id": "9"
+    },
+    {
+        "cn": "芬",
+        "en": "Fang",
+        "rarity": "2",
+        "approach": [
+            "公开招募",
+            "主线剧情",
+            "标准寻访"
+        ],
+        "sort_id": "8"
+    },
+    {
+        "cn": "12F",
+        "en": "12F",
+        "rarity": "1",
+        "approach": [
+            "公开招募",
+            "主线剧情"
+        ],
+        "sort_id": "7"
+    },
+    {
+        "cn": "杜林",
+        "en": "Durin",
+        "rarity": "1",
+        "approach": [
+            "公开招募",
+            "主线剧情"
+        ],
+        "sort_id": "6"
+    },
+    {
+        "cn": "巡林者",
+        "en": "Rangers",
+        "rarity": "1",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "5"
+    },
+    {
+        "cn": "黑角",
+        "en": "Noir Corne",
+        "rarity": "1",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "4"
+    },
+    {
+        "cn": "夜刀",
+        "en": "Yato",
+        "rarity": "1",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "3"
+    },
+    {
+        "cn": "Castle-3",
+        "en": "Castle-3",
+        "rarity": "0",
+        "approach": [
+            "公开招募"
+        ],
+        "sort_id": "2"
+    },
+    {
+        "cn": "Lancet-2",
+        "en": "Lancet-2",
+        "rarity": "0",
+        "approach": [
+            "公开招募",
+            "主线剧情"
+        ],
+        "sort_id": "1"
+    }
+]

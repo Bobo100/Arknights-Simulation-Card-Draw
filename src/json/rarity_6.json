@@ -1,0 +1,793 @@
+[
+    {
+        "cn": "重嶽",
+        "en": "Chongyue",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "268",
+        "image_path": "./../image/重嶽/重嶽-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "林",
+        "en": "Lin",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "267",
+        "image_path": "./../image/林/林-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "焰影葦草",
+        "en": "Reed The Flame Shadow",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "264",
+        "image_path": "./../image/焰影葦草/焰影葦草-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "緘默德克薩斯",
+        "en": "Texas the Omertosa",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "261",
+        "image_path": "./../image/緘默德克薩斯/緘默德克薩斯-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "斥罪",
+        "en": "Penance",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "260",
+        "image_path": "./../image/斥罪/斥罪-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "伺夜",
+        "en": "Vigil",
+        "rarity": "6",
+        "approach": [
+            "活動獲得"
+        ],
+        "sort_id": "259",
+        "image_path": "./../image/伺夜/伺夜-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "白鐵",
+        "en": "Stainless",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "255",
+        "image_path": "./../image/白鐵/白鐵-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "瑪恩納",
+        "en": "Młynar",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "249",
+        "image_path": "./../image/瑪恩納/瑪恩納-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "百鍊嘉維爾",
+        "en": "Gavial the Invincible",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "247",
+        "image_path": "./../image/百鍊嘉維爾/百鍊嘉維爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "鴻雪",
+        "en": "Позёмка",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "246",
+        "image_path": "./../image/鴻雪/鴻雪-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "多蘿西",
+        "en": "Dorothy",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "243",
+        "image_path": "./../image/多蘿西/多蘿西-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "黑鍵",
+        "en": "Ebenholz",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "240",
+        "image_path": "./../image/黑鍵/黑鍵-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "歸溟幽靈鯊",
+        "en": "Specter the Unchained",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "236",
+        "image_path": "./../image/歸溟幽靈鯊/歸溟幽靈鯊-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "艾麗妮",
+        "en": "Irene",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "235",
+        "image_path": "./../image/艾麗妮/艾麗妮-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "流明",
+        "en": "Lumen",
+        "rarity": "6",
+        "approach": [
+            "活動獲得"
+        ],
+        "sort_id": "234",
+        "image_path": "./../image/流明/流明-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "號角",
+        "en": "Horn",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "232",
+        "image_path": "./../image/號角/號角-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "菲亞梅塔",
+        "en": "Fiammetta",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "228",
+        "image_path": "./../image/菲亞梅塔/菲亞梅塔-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "澄閃",
+        "en": "Goldenglow",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "225",
+        "image_path": "./../image/澄閃/澄閃-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "令",
+        "en": "Ling",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "223",
+        "image_path": "./../image/令/令-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "老鯉",
+        "en": "Lee",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "222",
+        "image_path": "./../image/老鯉/老鯉-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "靈知",
+        "en": "Gnosis",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "217",
+        "image_path": "./../image/靈知/靈知-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "耀騎士臨光",
+        "en": "Nearl the Radiant Knight",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "214",
+        "image_path": "./../image/耀騎士臨光/耀騎士臨光-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "焰尾",
+        "en": "Flametail",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "213",
+        "image_path": "./../image/焰尾/焰尾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "遠牙",
+        "en": "Fartooth",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "207",
+        "image_path": "./../image/遠牙/遠牙-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "琴柳",
+        "en": "Saileach",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "205",
+        "image_path": "./../image/琴柳/琴柳-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "假日威龍陳",
+        "en": "Ch'en the Holungday",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "202",
+        "image_path": "./../image/假日威龍陳/假日威龍陳-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "水月",
+        "en": "Mizuki",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "201",
+        "image_path": "./../image/水月/水月-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "帕拉斯",
+        "en": "Pallas",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "198",
+        "image_path": "./../image/帕拉斯/帕拉斯-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "卡涅利安",
+        "en": "Carnelian",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "197",
+        "image_path": "./../image/卡涅利安/卡涅利安-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "濁心斯卡蒂",
+        "en": "Skadi the Corrupting Heart",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "193",
+        "image_path": "./../image/濁心斯卡蒂/濁心斯卡蒂-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "凱爾希",
+        "en": "Kal'tsit",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "192",
+        "image_path": "./../image/凱爾希/凱爾希-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "歌蕾蒂婭",
+        "en": "Gladiia",
+        "rarity": "6",
+        "approach": [
+            "活動獲得"
+        ],
+        "sort_id": "191",
+        "image_path": "./../image/歌蕾蒂婭/歌蕾蒂婭-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "異客",
+        "en": "Passenger",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "189",
+        "image_path": "./../image/異客/異客-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "灰燼",
+        "en": "Ash",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "186",
+        "image_path": "./../image/灰燼/灰燼-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "夕",
+        "en": "Dusk",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "182",
+        "image_path": "./../image/夕/夕-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "嵯峨",
+        "en": "Saga",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "181",
+        "image_path": "./../image/嵯峨/嵯峨-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "空弦",
+        "en": "Archetto",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "177",
+        "image_path": "./../image/空弦/空弦-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "山",
+        "en": "Mountain",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "174",
+        "image_path": "./../image/山/山-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "迷迭香",
+        "en": "Rosmontis",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "169",
+        "image_path": "./../image/迷迭香/迷迭香-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "泥岩",
+        "en": "Mudrock",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "168",
+        "image_path": "./../image/泥岩/泥岩-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "瑕光",
+        "en": "Blemishine",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "165",
+        "image_path": "./../image/瑕光/瑕光-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "史爾特爾",
+        "en": "Surtr",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "161",
+        "image_path": "./../image/史爾特爾/史爾特爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "森蚺",
+        "en": "Eunectes",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "157",
+        "image_path": "./../image/森蚺/森蚺-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "棘刺",
+        "en": "Thorns",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "153",
+        "image_path": "./../image/棘刺/棘刺-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "鈴蘭",
+        "en": "Suzuran",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "147",
+        "image_path": "./../image/鈴蘭/鈴蘭-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "早露",
+        "en": "Роса",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪",
+            "公開招募"
+        ],
+        "sort_id": "143",
+        "image_path": "./../image/早露/早露-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "W",
+        "en": "W",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "137",
+        "image_path": "./../image/W/W-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "溫蒂",
+        "en": "Weedy",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪",
+            "公開招募"
+        ],
+        "sort_id": "136",
+        "image_path": "./../image/溫蒂/溫蒂-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "傀影",
+        "en": "Phantom",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪",
+            "公開招募"
+        ],
+        "sort_id": "133",
+        "image_path": "./../image/傀影/傀影-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "風笛",
+        "en": "Bagpipe",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "128",
+        "image_path": "./../image/風笛/風笛-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "刻俄柏",
+        "en": "Ceobe",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "123",
+        "image_path": "./../image/刻俄柏/刻俄柏-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "年",
+        "en": "Nian",
+        "rarity": "6",
+        "approach": [
+            "限定尋訪"
+        ],
+        "sort_id": "121",
+        "image_path": "./../image/年/年-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "阿",
+        "en": "Aak",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "120",
+        "image_path": "./../image/阿/阿-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "煌",
+        "en": "Blaze",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "117",
+        "image_path": "./../image/煌/煌-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "莫斯提馬",
+        "en": "Mostima",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "112",
+        "image_path": "./../image/莫斯提馬/莫斯提馬-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "麥哲倫",
+        "en": "Magallan",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "106",
+        "image_path": "./../image/麥哲倫/麥哲倫-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "赫拉格",
+        "en": "Hellagur",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "101",
+        "image_path": "./../image/赫拉格/赫拉格-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "黑",
+        "en": "Schwarz",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "98",
+        "image_path": "./../image/黑/黑-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "陳",
+        "en": "Ch'en",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "94",
+        "image_path": "./../image/陳/陳-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "斯卡蒂",
+        "en": "Skadi",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "89",
+        "image_path": "./../image/斯卡蒂/斯卡蒂-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "銀灰",
+        "en": "SilverAsh",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "82",
+        "image_path": "./../image/銀灰/銀灰-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "塞雷婭",
+        "en": "Saria",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "81",
+        "image_path": "./../image/塞雷婭/塞雷婭-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "星熊",
+        "en": "Hoshiguma",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "80",
+        "image_path": "./../image/星熊/星熊-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "夜鶯",
+        "en": "Nightingale",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "79",
+        "image_path": "./../image/夜鶯/夜鶯-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "閃靈",
+        "en": "Shining",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "78",
+        "image_path": "./../image/閃靈/閃靈-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "安潔莉娜",
+        "en": "Angelina",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "77",
+        "image_path": "./../image/安潔莉娜/安潔莉娜-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "艾雅法拉",
+        "en": "Eyjafjalla",
+        "rarity": "6",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "76",
+        "image_path": "./../image/艾雅法拉/艾雅法拉-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "伊芙利特",
+        "en": "Ifrit",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "75",
+        "image_path": "./../image/伊芙利特/伊芙利特-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "推進之王",
+        "en": "Siege",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "74",
+        "image_path": "./../image/推進之王/推進之王-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "能天使",
+        "en": "Exusiai",
+        "rarity": "6",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "73",
+        "image_path": "./../image/能天使/能天使-half.png",
+        "weight": 1
+    }
+]

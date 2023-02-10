@@ -1,11 +1,14 @@
 import react from 'react';
-import { UsersDetails } from './practice process/importJson';
+import { JsonDeleteKey } from './component/JsonDeleteKey';
+import { DrawCard } from './DrawCard';
 
 export const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
-            <UsersDetails></UsersDetails>
+            <h1>首頁</h1>
+            {/* <JsonDeleteKey></JsonDeleteKey> */}
+            <DrawCard />
         </div>
+
     );
 };

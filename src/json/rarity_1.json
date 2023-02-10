@@ -1,0 +1,48 @@
+[
+    {
+        "cn": "正義騎士號",
+        "en": "",
+        "rarity": "1",
+        "approach": [
+            "公開招募"
+        ],
+        "sort_id": "208",
+        "image_path": "./../image/正義騎士號/正義騎士號-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "THRM-EX",
+        "en": "Thermal-EX",
+        "rarity": "1",
+        "approach": [
+            "公開招募",
+            "主線劇情"
+        ],
+        "sort_id": "134",
+        "image_path": "./../image/THRM-EX/THRM-EX-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "Castle-3",
+        "en": "Castle-3",
+        "rarity": "1",
+        "approach": [
+            "公開招募"
+        ],
+        "sort_id": "2",
+        "image_path": "./../image/Castle-3/Castle-3-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "Lancet-2",
+        "en": "Lancet-2",
+        "rarity": "1",
+        "approach": [
+            "公開招募",
+            "主線劇情"
+        ],
+        "sort_id": "1",
+        "image_path": "./../image/Lancet-2/Lancet-2-half.png",
+        "weight": 1
+    }
+]

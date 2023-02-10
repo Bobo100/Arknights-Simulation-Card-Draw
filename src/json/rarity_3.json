@@ -1,0 +1,214 @@
+[
+    {
+        "cn": "斑點",
+        "en": "Spot",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "91",
+        "image_path": "./../image/斑點/斑點-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "泡普卡",
+        "en": "Popukar",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "90",
+        "image_path": "./../image/泡普卡/泡普卡-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "月見夜",
+        "en": "Midnight",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "85",
+        "image_path": "./../image/月見夜/月見夜-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "空爆",
+        "en": "Catapult",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "84",
+        "image_path": "./../image/空爆/空爆-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "梓蘭",
+        "en": "Orchid",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "20",
+        "image_path": "./../image/梓蘭/梓蘭-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "史都華德",
+        "en": "Steward",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "19",
+        "image_path": "./../image/史都華德/史都華德-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "安賽爾",
+        "en": "Ansel",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "18",
+        "image_path": "./../image/安賽爾/安賽爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "芙蓉",
+        "en": "Hibiscus",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "17",
+        "image_path": "./../image/芙蓉/芙蓉-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "炎熔",
+        "en": "Lava",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "16",
+        "image_path": "./../image/炎熔/炎熔-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "安德切爾",
+        "en": "Adnachiel",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情"
+        ],
+        "sort_id": "15",
+        "image_path": "./../image/安德切爾/安德切爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "克洛絲",
+        "en": "Kroos",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "14",
+        "image_path": "./../image/克洛絲/克洛絲-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "米格魯",
+        "en": "Beagle",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "13",
+        "image_path": "./../image/米格魯/米格魯-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "卡緹",
+        "en": "Cardigan",
+        "rarity": "3",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "12",
+        "image_path": "./../image/卡緹/卡緹-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "玫蘭莎",
+        "en": "Melantha",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "11",
+        "image_path": "./../image/玫蘭莎/玫蘭莎-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "翎羽",
+        "en": "Plume",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "10",
+        "image_path": "./../image/翎羽/翎羽-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "香草",
+        "en": "Vanilla",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "9",
+        "image_path": "./../image/香草/香草-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "芬",
+        "en": "Fang",
+        "rarity": "3",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "8",
+        "image_path": "./../image/芬/芬-half.png",
+        "weight": 1
+    }
+]

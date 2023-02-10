@@ -1,0 +1,59 @@
+[
+    {
+        "cn": "12F",
+        "en": "12F",
+        "rarity": "2",
+        "approach": [
+            "公開招募",
+            "主線劇情"
+        ],
+        "sort_id": "7",
+        "image_path": "./../image/12F/12F-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "杜林",
+        "en": "Durin",
+        "rarity": "2",
+        "approach": [
+            "公開招募",
+            "主線劇情"
+        ],
+        "sort_id": "6",
+        "image_path": "./../image/杜林/杜林-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "巡林者",
+        "en": "Rangers",
+        "rarity": "2",
+        "approach": [
+            "公開招募"
+        ],
+        "sort_id": "5",
+        "image_path": "./../image/巡林者/巡林者-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "黑角",
+        "en": "Noir Corne",
+        "rarity": "2",
+        "approach": [
+            "公開招募"
+        ],
+        "sort_id": "4",
+        "image_path": "./../image/黑角/黑角-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "夜刀",
+        "en": "Yato",
+        "rarity": "2",
+        "approach": [
+            "公開招募"
+        ],
+        "sort_id": "3",
+        "image_path": "./../image/夜刀/夜刀-half.png",
+        "weight": 1
+    }
+]

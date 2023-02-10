@@ -1,0 +1,618 @@
+[
+    {
+        "cn": "石英",
+        "en": "Quartz",
+        "rarity": "4",
+        "approach": [
+            "憑證交易所"
+        ],
+        "sort_id": "256",
+        "image_path": "./../image/石英/石英-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "鉛踝",
+        "en": "Totter",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "252",
+        "image_path": "./../image/鉛踝/鉛踝-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "羅小黑",
+        "en": "Luo Xiaohei",
+        "rarity": "4",
+        "approach": [
+            "活動獲得"
+        ],
+        "sort_id": "250",
+        "image_path": "./../image/羅小黑/羅小黑-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "褐果",
+        "en": "Chestnut",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "229",
+        "image_path": "./../image/褐果/褐果-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "布丁",
+        "en": "Pudding",
+        "rarity": "4",
+        "approach": [
+            "憑證交易所"
+        ],
+        "sort_id": "209",
+        "image_path": "./../image/布丁/布丁-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "羅比菈塔",
+        "en": "Roberta",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "203",
+        "image_path": "./../image/羅比菈塔/羅比菈塔-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "深靛",
+        "en": "Indigo",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "194",
+        "image_path": "./../image/深靛/深靛-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "豆苗",
+        "en": "Beanstalk",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "175",
+        "image_path": "./../image/豆苗/豆苗-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "松果",
+        "en": "Pinecone",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "171",
+        "image_path": "./../image/松果/松果-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "傑克",
+        "en": "Jackie",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "166",
+        "image_path": "./../image/傑克/傑克-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "泡泡",
+        "en": "Bubble",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "162",
+        "image_path": "./../image/泡泡/泡泡-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "芳汀",
+        "en": "Arene",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "158",
+        "image_path": "./../image/芳汀/芳汀-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "酸糖",
+        "en": "Aciddrop",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "154",
+        "image_path": "./../image/酸糖/酸糖-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "孑",
+        "en": "Jaye",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "151",
+        "image_path": "./../image/孑/孑-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "卡達",
+        "en": "Click",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "144",
+        "image_path": "./../image/卡達/卡達-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "波登可",
+        "en": "Podenco",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪",
+            "公開招募"
+        ],
+        "sort_id": "140",
+        "image_path": "./../image/波登可/波登可-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "刻刀",
+        "en": "Cutter",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪",
+            "公開招募"
+        ],
+        "sort_id": "130",
+        "image_path": "./../image/刻刀/刻刀-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "斷罪者",
+        "en": "Conviction",
+        "rarity": "4",
+        "approach": [
+            "活動獲得"
+        ],
+        "sort_id": "129",
+        "image_path": "./../image/斷罪者/斷罪者-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "宴",
+        "en": "Utage",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "125",
+        "image_path": "./../image/宴/宴-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "清流",
+        "en": "Purestream",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "限時禮包"
+        ],
+        "sort_id": "124",
+        "image_path": "./../image/清流/清流-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "安比爾",
+        "en": "Ambriel",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "115",
+        "image_path": "./../image/安比爾/安比爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "梅",
+        "en": "May",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "109",
+        "image_path": "./../image/梅/梅-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "伊桑",
+        "en": "Ethan",
+        "rarity": "4",
+        "approach": [
+            "憑證交易所"
+        ],
+        "sort_id": "107",
+        "image_path": "./../image/伊桑/伊桑-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "紅雲",
+        "en": "Vermeil",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "103",
+        "image_path": "./../image/紅雲/紅雲-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "堅雷",
+        "en": "Dur-nar",
+        "rarity": "4",
+        "approach": [
+            "信用交易所"
+        ],
+        "sort_id": "102",
+        "image_path": "./../image/堅雷/堅雷-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "桃金娘",
+        "en": "Myrtle",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "99",
+        "image_path": "./../image/桃金娘/桃金娘-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "蘇蘇洛",
+        "en": "Sussurro",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "95",
+        "image_path": "./../image/蘇蘇洛/蘇蘇洛-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "格雷伊",
+        "en": "Greyy",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "92",
+        "image_path": "./../image/格雷伊/格雷伊-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "獵蜂",
+        "en": "Beehunter",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "86",
+        "image_path": "./../image/獵蜂/獵蜂-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "阿消",
+        "en": "Shaw",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "44",
+        "image_path": "./../image/阿消/阿消-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "地靈",
+        "en": "Earthspirit",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "43",
+        "image_path": "./../image/地靈/地靈-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "深海色",
+        "en": "Deepcolor",
+        "rarity": "4",
+        "approach": [
+            "標準尋訪"
+        ],
+        "sort_id": "42",
+        "image_path": "./../image/深海色/深海色-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "古米",
+        "en": "Гум",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "41",
+        "image_path": "./../image/古米/古米-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "蛇屠箱",
+        "en": "Cuora",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "40",
+        "image_path": "./../image/蛇屠箱/蛇屠箱-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "角峯",
+        "en": "Matterhorn",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "39",
+        "image_path": "./../image/角峯/角峯-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "調香師",
+        "en": "Perfumer",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "38",
+        "image_path": "./../image/調香師/調香師-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "嘉維爾",
+        "en": "Gavial",
+        "rarity": "4",
+        "approach": [
+            "信用交易所"
+        ],
+        "sort_id": "37",
+        "image_path": "./../image/嘉維爾/嘉維爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "末藥",
+        "en": "Myrrh",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "36",
+        "image_path": "./../image/末藥/末藥-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "暗索",
+        "en": "Rope",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "35",
+        "image_path": "./../image/暗索/暗索-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "礫",
+        "en": "Gravel",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "34",
+        "image_path": "./../image/礫/礫-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "慕斯",
+        "en": "Mousse",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "33",
+        "image_path": "./../image/慕斯/慕斯-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "艾絲黛爾",
+        "en": "Estelle",
+        "rarity": "4",
+        "approach": [
+            "公開招募"
+        ],
+        "sort_id": "32",
+        "image_path": "./../image/艾絲黛爾/艾絲黛爾-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "霜葉",
+        "en": "Frostleaf",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "31",
+        "image_path": "./../image/霜葉/霜葉-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "纏丸",
+        "en": "Matoimaru",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "30",
+        "image_path": "./../image/纏丸/纏丸-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "杜賓",
+        "en": "Dobermann",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "29",
+        "image_path": "./../image/杜賓/杜賓-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "紅豆",
+        "en": "Vigna",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "28",
+        "image_path": "./../image/紅豆/紅豆-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "清道夫",
+        "en": "Scavenger",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "27",
+        "image_path": "./../image/清道夫/清道夫-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "訊使",
+        "en": "Courier",
+        "rarity": "4",
+        "approach": [
+            "信用交易所"
+        ],
+        "sort_id": "26",
+        "image_path": "./../image/訊使/訊使-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "白雪",
+        "en": "ShiraYuki",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "25",
+        "image_path": "./../image/白雪/白雪-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "流星",
+        "en": "Meteor",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "24",
+        "image_path": "./../image/流星/流星-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "傑西卡",
+        "en": "Jessica",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "主線劇情",
+            "標準尋訪"
+        ],
+        "sort_id": "23",
+        "image_path": "./../image/傑西卡/傑西卡-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "遠山",
+        "en": "Gitano",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "22",
+        "image_path": "./../image/遠山/遠山-half.png",
+        "weight": 1
+    },
+    {
+        "cn": "夜煙",
+        "en": "Haze",
+        "rarity": "4",
+        "approach": [
+            "公開招募",
+            "標準尋訪"
+        ],
+        "sort_id": "21",
+        "image_path": "./../image/夜煙/夜煙-half.png",
+        "weight": 1
+    }
+]

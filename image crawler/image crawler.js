@@ -34,18 +34,18 @@ function delay(time) {
 
   await page.goto("https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88");
 
-  try {
-    // 點擊篩選器
-    await page.evaluate(() => {
-      document
-        .querySelector(
-          "#filter-wrapper > table:nth-child(1) > tbody > tr.filter-checkbox.approach.disabled > td > div.checkBoxWrapper > div:nth-child(2) > label > input"
-        )
-        .click();
-    });
-  } catch (error) {
-    console.log(error);
-  }
+  // try {
+  //   // 點擊篩選器
+  //   await page.evaluate(() => {
+  //     document
+  //       .querySelector(
+  //         "#filter-wrapper > table:nth-child(1) > tbody > tr.filter-checkbox.approach.disabled > td > div.checkBoxWrapper > div:nth-child(2) > label > input"
+  //       )
+  //       .click();
+  //   });
+  // } catch (error) {
+  //   console.log(error);
+  // }
 
   const select = await page.$("#cur-page");
   const options = await select.$$("option");
@@ -93,7 +93,7 @@ function delay(time) {
         );
       } catch (error) {
         console.log(error);
-        if (error.message != "no element")
+        if (error.message !== "no element")
           errorList.push(linkText + "-img-elite0");
       }
 
@@ -111,7 +111,7 @@ function delay(time) {
         );
       } catch (error) {
         console.log(error);
-        if (error.message != "no element")
+        if (error.message !== "no element")
           errorList.push(linkText + "-img-elite2");
       }
       console.log(linkText + " done");
@@ -124,5 +124,5 @@ function delay(time) {
   // #img-elite0
   // #img-elite2
 
-  //   await browser.close();
+    await browser.close();
 })();
