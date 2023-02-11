@@ -39,6 +39,35 @@
     margin-top: 20px;
 }
 
+.drawCount {
+    li {
+        display: inline-flex;
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #fff;
+    }
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.drawProbability {
+    // width: 500px;
+    ul {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: start;
+    }
+    li {
+        margin: 10px 0;
+        // padding: 10px;
+        // border: 1px solid #fff;
+    }
+}
+
 .btn_draw {
     width: 150px;
     height: 50px;
@@ -47,4 +76,15 @@
 
     -webkit-user-select: none;
     user-select: none;
+}
+.btn_reset {
+    width: 150px;
+    height: 50px;
+    border: 0;
+    background-color: none;
+
+    -webkit-user-select: none;
+    user-select: none;
+
+    margin-left: 20px;
 }

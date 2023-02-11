@@ -32,14 +32,44 @@ interface CardData {
 
 export const DrawCard = () => {
 
+
+
     const [draws, setDraws] = useState<CardData[]>([]);
+
+    const [count3, setCount3] = useState(0);
+    const [count4, setCount4] = useState(0);
+    const [count5, setCount5] = useState(0);
+    const [count6, setCount6] = useState(0);
+    const [totalDraws, setTotalDraws] = useState(0);
 
     const handleRedraw = () => {
         let newDraws: Array<CardData> = [];
+        let newRarity3Count = count3;
+        let newRarity4Count = count4;
+        let newRarity5Count = count5;
+        let newRarity6Count = count6;
         for (let i = 0; i < 10; i++) {
-            newDraws.push(draw());
+            const newCard = draw();
+            newDraws.push(newCard);
+
+            if (newCard["card rarity"] === "3") {
+                newRarity3Count++;
+            } else if (newCard["card rarity"] === "4") {
+                newRarity4Count++;
+            } else if (newCard["card rarity"] === "5") {
+                newRarity5Count++;
+            } else if (newCard["card rarity"] === "6") {
+                newRarity6Count++;
+            }
         }
-        console.log(newDraws)
+
+        setCount3(newRarity3Count);
+        setCount4(newRarity4Count);
+        setCount5(newRarity5Count);
+        setCount6(newRarity6Count);
+        setTotalDraws(totalDraws + 10);
+        console.log("count3 ", count3, "count4 ", count4, "count5 ", count5, "count6 ", count6)
+        console.log(totalDraws)
         setDraws(newDraws);
     };
 
@@ -100,9 +130,37 @@ export const DrawCard = () => {
                         <div>{star["card name"]}</div>
                     </div>
                 ))}
+
+
+            </div>
+            <h2>統計狀態</h2>
+            <div className="drawCount">
+                {totalDraws > 0 &&
+                    <ul>
+                        {/* 3星次數 */}
+                        <li>3星：{count3}張</li>
+                        {/* 4星次數 */}
+                        <li>4星：{count4}張</li>
+                        {/* 5星次數 */}
+                        <li>5星：{count5}張</li>
+                        {/* 6星次數 */}
+                        <li>6星：{count6}張</li>
+                        <li>總共抽了：{totalDraws}次</li>
+                    </ul>
+                }
+            </div>
+            <div className="drawProbability">
+                {draws && draws.length > 0 &&
+                    <ul>
+                        <li>3星：{count3 / totalDraws} %</li>
+                        <li>4星：{count4 / totalDraws} %</li>
+                        <li>5星：{count5 / totalDraws} %</li>
+                        <li>6星：{count6 / totalDraws} %</li>
+                    </ul>}
             </div>
             <div className="btn_container">
                 <button onClick={handleRedraw} className="btn_draw">開抽</button>
+                <button onClick={() => { setDraws([]); setCount3(0); setCount4(0); setCount5(0); setCount6(0); setTotalDraws(0) }} className="btn_reset">重置</button>
             </div>
         </div>
     );
