@@ -73,9 +73,6 @@ export const DrawCardInverseGuaranteed = () => {
                 nowGuaranteedCount = 0;
                 sortedProbabilities[0][1] = 0.02;
             }
-
-            // console.log(nowGuaranteedCount)
-
         }
 
         setCount3(newRarity3Count);
@@ -119,8 +116,6 @@ export const DrawCardInverseGuaranteed = () => {
         setCount5(newRarity5Count);
         setCount6(newRarity6Count);
         setTotalDraws((totalDraws) => (totalDraws + 1));
-        // console.log("count3 ", count3, "count4 ", count4, "count5 ", count5, "count6 ", count6)
-        // console.log(totalDraws)
         setDraws(() => [...newDraws]);
         setGuaranteedCount(() => (nowGuaranteedCount));
     };
@@ -132,10 +127,7 @@ export const DrawCardInverseGuaranteed = () => {
         // 如果超過50次 沒抽到6星，就開始增加機率
         if (nowGuaranteedCount > 50) {
             sortedProbabilities[0][1] += 0.02;
-            console.log("機率增加", sortedProbabilities[0][1])
         }
-
-        console.log("六星卡機率", sortedProbabilities[0][1], "五星卡機率", sortedProbabilities[1][1], "四星卡機率", sortedProbabilities[2][1], "三星卡機率", sortedProbabilities[3][1], "")
 
         for (const [star, probability] of sortedProbabilities) {
             cumulativeProbability += probability;
@@ -145,7 +137,7 @@ export const DrawCardInverseGuaranteed = () => {
                 const cardsWithStar = cards.filter(
                     card => card.rarity === star
                 );
-      
+
                 const totalWeight = cardsWithStar.reduce((sum, card) => {
                     sum += card.weight;
                     return sum;
