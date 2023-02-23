@@ -1,3 +1,4 @@
+// 有保底的版本
 import React, { useState } from "react";
 import uuid from "react-uuid";
 import classnames from 'classnames';
@@ -45,43 +46,45 @@ export const DrawCardInverseGuaranteed = () => {
     const [count6, setCount6] = useState(0);
     const [totalDraws, setTotalDraws] = useState(0);
 
-    // 設定保底抽卡的數量狀態
-    const [guarantee, setGuarantee] = useState(0);
-
-    // 下次出現六星卡的機率
-    const [nextSixStarProbability, setNextSixStarProbability] = useState(0.02);
+    // 設定保底目前的次數
+    const [guaranteedCount, setGuaranteedCount] = useState(0);
 
     const handleDrawTen = async () => {
-        const cards = await drawTen();
-        setDraws(cards);
-    }
-    const drawTen: () => Promise<CardData[]> = async () => {
         let cards = [];
         let newRarity3Count = count3;
         let newRarity4Count = count4;
         let newRarity5Count = count5;
         let newRarity6Count = count6;
+        let nowGuaranteedCount = guaranteedCount;
         for (let i = 0; i < 10; i++) {
-            const newCard = await draw();
+            const newCard = draw(nowGuaranteedCount);
             cards.push(newCard);
-
             if (newCard["card rarity"] === "3") {
                 newRarity3Count++;
+                nowGuaranteedCount++;
             } else if (newCard["card rarity"] === "4") {
                 newRarity4Count++;
+                nowGuaranteedCount++;
             } else if (newCard["card rarity"] === "5") {
                 newRarity5Count++;
+                nowGuaranteedCount++;
             } else if (newCard["card rarity"] === "6") {
                 newRarity6Count++;
+                nowGuaranteedCount = 0;
+                sortedProbabilities[0][1] = 0.02;
             }
+
+            // console.log(nowGuaranteedCount)
+
         }
+
         setCount3(newRarity3Count);
         setCount4(newRarity4Count);
         setCount5(newRarity5Count);
         setCount6(newRarity6Count);
         setTotalDraws((totalDraws) => (totalDraws + 10));
-
-        return cards;
+        setDraws(cards);
+        setGuaranteedCount(() => (nowGuaranteedCount));
     }
 
     const handleRedraw = () => {
@@ -90,18 +93,26 @@ export const DrawCardInverseGuaranteed = () => {
         let newRarity4Count = count4;
         let newRarity5Count = count5;
         let newRarity6Count = count6;
-        const newCard = draw();
+        let nowGuaranteedCount = guaranteedCount;
+        const newCard = draw(nowGuaranteedCount);
         newDraws.push(newCard);
 
         if (newCard["card rarity"] === "3") {
             newRarity3Count++;
+            nowGuaranteedCount++;
         } else if (newCard["card rarity"] === "4") {
             newRarity4Count++;
+            nowGuaranteedCount++;
         } else if (newCard["card rarity"] === "5") {
             newRarity5Count++;
+            nowGuaranteedCount++;
         } else if (newCard["card rarity"] === "6") {
             newRarity6Count++;
+            nowGuaranteedCount = 0;
+            sortedProbabilities[0][1] = 0.02;
         }
+
+        console.log(nowGuaranteedCount)
 
         setCount3(newRarity3Count);
         setCount4(newRarity4Count);
@@ -111,11 +122,20 @@ export const DrawCardInverseGuaranteed = () => {
         // console.log("count3 ", count3, "count4 ", count4, "count5 ", count5, "count6 ", count6)
         // console.log(totalDraws)
         setDraws(() => [...newDraws]);
+        setGuaranteedCount(() => (nowGuaranteedCount));
     };
     // 抽卡 先決定抽到的星數 再決定抽到的卡片(根據卡片的權重)
-    const draw: () => CardData = () => {
+    const draw: (nowGuaranteedCount: number) => CardData = (nowGuaranteedCount) => {
         let randomNumber = Math.random();
         let cumulativeProbability = 0;
+
+        // 如果超過50次 沒抽到6星，就開始增加機率
+        if (nowGuaranteedCount > 50) {
+            sortedProbabilities[0][1] += 0.02;
+            console.log("機率增加", sortedProbabilities[0][1])
+        }
+
+        console.log("六星卡機率", sortedProbabilities[0][1], "五星卡機率", sortedProbabilities[1][1], "四星卡機率", sortedProbabilities[2][1], "三星卡機率", sortedProbabilities[3][1], "")
 
         for (const [star, probability] of sortedProbabilities) {
             cumulativeProbability += probability;
@@ -125,12 +145,7 @@ export const DrawCardInverseGuaranteed = () => {
                 const cardsWithStar = cards.filter(
                     card => card.rarity === star
                 );
-                // 如果抽到的不是6星，就把保底數量+1
-                if (star !== "6") {
-                    setGuarantee((guarantee) => guarantee + 1);
-                } else if (star === "6") {
-                    setGuarantee(0);
-                }
+      
                 const totalWeight = cardsWithStar.reduce((sum, card) => {
                     sum += card.weight;
                     return sum;
@@ -160,7 +175,7 @@ export const DrawCardInverseGuaranteed = () => {
 
     return (
         <div className="drawCard">
-            <h1>有保底的版本，尚未完成</h1>
+            <h1>有保底的版本</h1>
             <h2>抽到的卡片：</h2>
             <div className="cardList">
                 {draws.map((star, index) => (
@@ -197,8 +212,7 @@ export const DrawCardInverseGuaranteed = () => {
                         {/* 6星次數 */}
                         <li>6星：{count6}張</li>
                         <li>總共抽了：{totalDraws}次</li>
-                        <li>你已經連續：{guarantee}抽沒有抽到6星啦~</li>
-                        <li>下一次6星機率：{nextSixStarProbability * 100} %</li>
+                        <li>你已經連續：{guaranteedCount}抽沒有抽到6星啦~</li>
                     </ul>
                 }
             </div>
@@ -214,7 +228,7 @@ export const DrawCardInverseGuaranteed = () => {
             <div className="btn_container">
                 <button onClick={handleRedraw} className="btn_draw">單抽</button>
                 <button onClick={handleDrawTen} className="btn_drawten">10連抽</button>
-                <button onClick={() => { setDraws([]); setCount3(0); setCount4(0); setCount5(0); setCount6(0); setTotalDraws(0); setGuarantee(0); setNextSixStarProbability(0.02); }} className="btn_reset">重置</button>
+                <button onClick={() => { setDraws([]); setCount3(0); setCount4(0); setCount5(0); setCount6(0); setTotalDraws(0); setGuaranteedCount(0) }} className="btn_reset">重置</button>
             </div>
         </div>
     );

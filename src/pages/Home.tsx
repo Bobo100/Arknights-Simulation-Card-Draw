@@ -15,12 +15,13 @@ export const Home = () => {
 
             <h1>Inverse</h1>
             <DrawCardInverse /> */}
-            
-            <h1>測試中</h1>
+
+            {/* <h1>有保底的版本</h1> */}
+            <DrawCardInverseGuaranteed />
+
+            {/* <h1>有保底的版本-測試中</h1> */}
             <DrawCardInverseGuaranteedTest />
 
-            <h1>有保底的版本</h1>
-            <DrawCardInverseGuaranteed />
         </div>
 
     );

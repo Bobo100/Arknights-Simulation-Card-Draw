@@ -48,31 +48,33 @@ export const DrawCardInverseGuaranteedTest = () => {
     // 設定保底目前的次數
     const [guaranteedCount, setGuaranteedCount] = useState(0);
 
-
     const handleDrawTen = async () => {
-        const cards = drawTen();
-        setDraws(cards);
-    }
-    const drawTen: () => CardData[] = () => {
         let cards = [];
         let newRarity3Count = count3;
         let newRarity4Count = count4;
         let newRarity5Count = count5;
         let newRarity6Count = count6;
+        let nowGuaranteedCount = guaranteedCount;
         for (let i = 0; i < 10; i++) {
-
-            const newCard = draw();
+            const newCard = draw(nowGuaranteedCount);
             cards.push(newCard);
-
             if (newCard["card rarity"] === "3") {
                 newRarity3Count++;
+                nowGuaranteedCount++;
             } else if (newCard["card rarity"] === "4") {
                 newRarity4Count++;
+                nowGuaranteedCount++;
             } else if (newCard["card rarity"] === "5") {
                 newRarity5Count++;
+                nowGuaranteedCount++;
             } else if (newCard["card rarity"] === "6") {
                 newRarity6Count++;
+                nowGuaranteedCount = 0;
+                sortedProbabilities[0][1] = 0.02;
             }
+
+            // console.log(nowGuaranteedCount)
+
         }
 
         setCount3(newRarity3Count);
@@ -80,8 +82,8 @@ export const DrawCardInverseGuaranteedTest = () => {
         setCount5(newRarity5Count);
         setCount6(newRarity6Count);
         setTotalDraws((totalDraws) => (totalDraws + 10));
-
-        return cards;
+        setDraws(cards);
+        setGuaranteedCount(() => (nowGuaranteedCount));
     }
 
     const handleRedraw = () => {
@@ -90,18 +92,26 @@ export const DrawCardInverseGuaranteedTest = () => {
         let newRarity4Count = count4;
         let newRarity5Count = count5;
         let newRarity6Count = count6;
-        const newCard = draw();
+        let nowGuaranteedCount = guaranteedCount;
+        const newCard = draw(nowGuaranteedCount);
         newDraws.push(newCard);
 
         if (newCard["card rarity"] === "3") {
             newRarity3Count++;
+            nowGuaranteedCount++;
         } else if (newCard["card rarity"] === "4") {
             newRarity4Count++;
+            nowGuaranteedCount++;
         } else if (newCard["card rarity"] === "5") {
             newRarity5Count++;
+            nowGuaranteedCount++;
         } else if (newCard["card rarity"] === "6") {
             newRarity6Count++;
+            nowGuaranteedCount = 0;
+            sortedProbabilities[0][1] = 0.02;
         }
+
+        console.log(nowGuaranteedCount)
 
         setCount3(newRarity3Count);
         setCount4(newRarity4Count);
@@ -111,15 +121,20 @@ export const DrawCardInverseGuaranteedTest = () => {
         // console.log("count3 ", count3, "count4 ", count4, "count5 ", count5, "count6 ", count6)
         // console.log(totalDraws)
         setDraws(() => [...newDraws]);
+        setGuaranteedCount(() => (nowGuaranteedCount));
     };
     // 抽卡 先決定抽到的星數 再決定抽到的卡片(根據卡片的權重)
-    const draw: () => CardData = () => {
+    const draw: (nowGuaranteedCount: number) => CardData = (nowGuaranteedCount) => {
         let randomNumber = Math.random();
         let cumulativeProbability = 0;
 
-        let localGuaranteedCount = guaranteedCount;
+        // 如果超過50次 沒抽到6星，就開始增加機率
+        if (nowGuaranteedCount > 50) {
+            sortedProbabilities[0][1] += 0.02;
+            console.log("機率增加", sortedProbabilities[0][1])
+        }
 
-        console.log("localGuaranteedCount", localGuaranteedCount)
+        console.log("六星卡機率", sortedProbabilities[0][1], "五星卡機率", sortedProbabilities[1][1], "四星卡機率", sortedProbabilities[2][1], "三星卡機率", sortedProbabilities[3][1], "")
 
         for (const [star, probability] of sortedProbabilities) {
             cumulativeProbability += probability;
@@ -129,13 +144,7 @@ export const DrawCardInverseGuaranteedTest = () => {
                 const cardsWithStar = cards.filter(
                     card => card.rarity === star
                 );
-
-                if (star !== "6") {
-                    setGuaranteedCount((localGuaranteedCount) => (localGuaranteedCount + 1));
-                } else {
-                    setGuaranteedCount(0);
-                }
-
+      
                 const totalWeight = cardsWithStar.reduce((sum, card) => {
                     sum += card.weight;
                     return sum;
@@ -165,7 +174,7 @@ export const DrawCardInverseGuaranteedTest = () => {
 
     return (
         <div className="drawCard">
-            <h1>有保底的版本，尚未完成</h1>
+            <h1>有保底的版本</h1>
             <h2>抽到的卡片：</h2>
             <div className="cardList">
                 {draws.map((star, index) => (
