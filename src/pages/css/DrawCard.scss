@@ -68,7 +68,7 @@ ul {
     }
 }
 
-.btn_draw {
+button {
     width: 150px;
     height: 50px;
     border: 0;
@@ -77,14 +77,9 @@ ul {
     -webkit-user-select: none;
     user-select: none;
 }
+.btn_drawten {
+    margin-left: 20px;
+}
 .btn_reset {
-    width: 150px;
-    height: 50px;
-    border: 0;
-    background-color: none;
-
-    -webkit-user-select: none;
-    user-select: none;
-
     margin-left: 20px;
 }

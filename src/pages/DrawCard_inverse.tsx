@@ -24,13 +24,18 @@ const probabilities: { [key: string]: number } = {
     "6": 0.02
 };
 
+const sortedProbabilities = Object.entries(probabilities).sort(
+    ([star1, prob1], [star2, prob2]) => Number(star2) - Number(star1)
+);
+
+
 interface CardData {
     "card name": string;
     "card rarity": string;
     "card image_path": string;
 }
 
-export const DrawCard = () => {
+export const DrawCardInverse = () => {
 
     const [draws, setDraws] = useState<CardData[]>([]);
 
@@ -41,7 +46,8 @@ export const DrawCard = () => {
     const [totalDraws, setTotalDraws] = useState(0);
 
     // 設定保底抽卡的數量狀態
-    const [guarantee, setGuarantee] = useState(0);  
+    const [guarantee, setGuarantee] = useState(0);
+
     // 下次出現六星卡的機率
     const [nextSixStarProbability, setNextSixStarProbability] = useState(0.02);
 
@@ -66,10 +72,10 @@ export const DrawCard = () => {
             }
         }
 
-        setCount3(() => (newRarity3Count));
-        setCount4(() => (newRarity4Count));
-        setCount5(() => (newRarity5Count));
-        setCount6(() => (newRarity6Count));
+        setCount3(newRarity3Count);
+        setCount4(newRarity4Count);
+        setCount5(newRarity5Count);
+        setCount6(newRarity6Count);
         setTotalDraws((totalDraws) => (totalDraws + 10));
         // console.log("count3 ", count3, "count4 ", count4, "count5 ", count5, "count6 ", count6)
         // console.log(totalDraws)
@@ -84,7 +90,7 @@ export const DrawCard = () => {
         let randomNumber = Math.random();
         let cumulativeProbability = 0;
 
-        for (const [star, probability] of Object.entries(probabilities)) {
+        for (const [star, probability] of sortedProbabilities) {
             cumulativeProbability += probability;
 
             // 如果抽到的數字小於累積機率，就抽到該星數的卡片
@@ -181,7 +187,7 @@ export const DrawCard = () => {
             </div>
             <div className="btn_container">
                 <button onClick={handleRedraw} className="btn_draw">開抽</button>
-                <button onClick={() => { setDraws([]); setCount3(0); setCount4(0); setCount5(0); setCount6(0); setTotalDraws(0); setGuarantee(0); setNextSixStarProbability(0.02) }} className="btn_reset">重置</button>
+                <button onClick={() => { setDraws([]); setCount3(0); setCount4(0); setCount5(0); setCount6(0); setTotalDraws(0); setGuarantee(0); setNextSixStarProbability(0.02); }} className="btn_reset">重置</button>
             </div>
         </div>
     );
