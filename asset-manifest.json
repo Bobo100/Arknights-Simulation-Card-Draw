@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Arknights-Simulation-Card-Draw/static/css/main.56cfee6e.css",
-    "main.js": "/Arknights-Simulation-Card-Draw/static/js/main.1767a93d.js",
+    "main.js": "/Arknights-Simulation-Card-Draw/static/js/main.5bc5e94b.js",
     "static/media/艾絲黛爾-half.png": "/Arknights-Simulation-Card-Draw/static/media/艾絲黛爾-half.7ebe41200ab15f6418c6.png",
     "static/media/焰尾-half.png": "/Arknights-Simulation-Card-Draw/static/media/焰尾-half.c70126d436e263e076f4.png",
     "static/media/野鬃-half.png": "/Arknights-Simulation-Card-Draw/static/media/野鬃-half.a173b424e359e32d8018.png",
@@ -272,10 +272,10 @@
     "static/media/Castle-3-half.png": "/Arknights-Simulation-Card-Draw/static/media/Castle-3-half.ede0041fa2109a602f98.png",
     "index.html": "/Arknights-Simulation-Card-Draw/index.html",
     "main.56cfee6e.css.map": "/Arknights-Simulation-Card-Draw/static/css/main.56cfee6e.css.map",
-    "main.1767a93d.js.map": "/Arknights-Simulation-Card-Draw/static/js/main.1767a93d.js.map"
+    "main.5bc5e94b.js.map": "/Arknights-Simulation-Card-Draw/static/js/main.5bc5e94b.js.map"
   },
   "entrypoints": [
     "static/css/main.56cfee6e.css",
-    "static/js/main.1767a93d.js"
+    "static/js/main.5bc5e94b.js"
   ]
 }
