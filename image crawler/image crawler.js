@@ -124,5 +124,5 @@ function delay(time) {
   // #img-elite0
   // #img-elite2
 
-    await browser.close();
+  await browser.close();
 })();
